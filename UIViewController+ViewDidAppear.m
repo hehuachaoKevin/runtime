@@ -3,7 +3,7 @@
 //  ServiceAssistant
 //
 //  Created by kingDee on 2017/9/16.
-//  Copyright © 2017年 kingdee. All rights reserved.
+//  Copyright © 2017年 HEHC. All rights reserved.
 //
 
 #import "UIViewController+ViewDidAppear.h"
